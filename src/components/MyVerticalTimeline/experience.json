@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Customer Experience Expert, NPS",
+        "date": "2017 - Present",
+        "org": "Global Payments",
+        "location": "Broomfield, CO",
+        "description": "Monitor, evaluate and score a specific number of incoming customer calls monthly for all Global Payment (GP) clients to provide an overall assessment of call center and collections quality.",
+        "icon": "",
+        "orgLink": "https://www.globalpayments.com/"
+    },
+    {
+        "id": 2,
+        "title": "Full-Stack Coding Bootcamp",
+        "date": "2020 - 2020",
+        "org": "CU Denver Extension",
+        "location": "Denver, CA",
+        "description": "12-week intensive program focused on full-stack programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handelbars.js, ReactJS, etc.",
+        "icon": "",
+        "orgLink": "https://bootcamp.du.edu/"
+    },
+    {
+        "id": 3,
+        "title": "Human Resourses Assistant",
+        "date": "2016 - 2017",
+        "org": "Rupes USA",
+        "location": "Mead, CO",
+        "description": "HR support for stakeholders. Provide excellent customer service to customers and vendors. Develop and maintain regular reports via the company’s accounting system including accounts payable processing.",
+        "icon": "",
+        "orgLink": "https://www.rupesusa.com/"
+    },
+    {
+        "id": 4,
+        "title": "Whole Foods Team Lead",
+        "date": "2015 - 2016",
+        "org": "Whole Foods",
+        "location": "Boulder, CO",
+        "description": "Set and achieve the highest standards of retail execution at the busiest Whole Foods (WF) store in the US. Fostered a positive work environment for outstanding teamwork, mutual respect, and exceptional morale.",
+        "icon": "",
+        "orgLink": "https://www.wholefoods.com/"
+    },
+    {
+        "id": 5,
+        "title": "Specialist",
+        "date": "2014 - 2015",
+        "org": "Apple",
+        "location": "Boulder, CO",
+        "description": "As a Service Specialist, I helped new owners get started using their new Apple products. Assisted current Apple owners access quick, and efficient support to develop a strong positive relationship with Apple.",
+        "icon": "",
+        "orgLink": "https://www.apple.com/"
+    },
+    {
+        "id": 6,
+        "title": "B.S, Environmental Biology",
+        "date": "2015",
+        "org": "University of Colorado - Boulder",
+        "location": "Boulder, CO",
+        "description": "Studied biology, chemistry, microbiology, genetics, ecology, and other biologies to help with the environment.",
+        "icon": "",
+        "orgLink": "https://www.colorado.edu/"
+    },
+    {
+        "id": 7,
+        "title": "Project Manager",
+        "date": "2012 - 2015",
+        "org": "Wright Kingdom Real Estate",
+        "location": "Longmont, CO ",
+        "description": "Responsible for maintaining current real estate listings, preparing newsletters and flyers, and updating current contract status and closings. Assisted with open houses and related tasks to support senior agents.",
+        "icon": "",
+        "orgLink": "https://www.wkre.com/"
+    },
+    {
+     
+    }
+]

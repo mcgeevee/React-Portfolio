@@ -1,0 +1,134 @@
+.card {
+  height: auto;
+  width: auto;
+  max-width: auto;
+  max-height: auto;
+  position: relative;
+  margin-top: 50px;
+  overflow: hidden;
+  border-radius: 40px;
+  border: solid;
+  border-width: 1px;
+  background-color: white;  
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.card > .img-container {
+  height: 50%;
+  overflow: hidden;
+  background-color: rgb(233, 233, 233);
+  border-radius: 40px;
+  border: solid black;
+  border-width: 1px;
+  box-shadow: 15px 15px 15px black;
+  display: block;
+}
+
+.card > .img-container > img {
+  height: 100%;
+box-sizing: border-box;
+max-width: 100%;
+max-height: 100%;
+width: 100%;
+  overflow: hidden;  
+  padding: 20px;
+}
+
+.cardHeader {
+  font-size: 24px;
+  padding: 10px;
+  margin-top: 0px;
+  color: black;
+  border: rgb(233, 233, 233) 1px;
+  text-align: left;
+  background-color: rgb(233, 233, 233);
+  padding-left: 20px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+text {
+  display: block;
+  width: 100%;
+  min-height: 80px;
+  color: black;
+  text-align: left;
+  font-weight: 200;
+  font-size: 25px;
+  padding: 20px;
+  margin-top: 0;
+  overflow-wrap: break-word;
+  overflow-y: scroll;
+}
+
+
+.description {
+  font-weight: 300; 
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 26px;
+  margin-top: 20px;
+  font-style: italic;   
+  color: black;
+  text-align: left;
+  padding-left: 20px;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+.card:hover {
+  box-shadow: 15px 15px 15px black;
+  overflow: scroll;
+}
+
+br {
+display: block;
+height: 10px;
+border: rgb(233, 233, 233) 1px;
+}
+
+@media only screen and (max-width: 787px) {
+  .gifs{
+    width: 400px;
+  }
+} 
+
+@media only screen and (max-width: 439px) {
+  .gifs{
+    width: 280px;
+    height: 220px;
+  }
+ text {
+   font-size: 15px;
+   margin-top: 0px;
+   padding-top: 0px;
+ }
+
+ .card { 
+   margin: 15px;
+ }
+ 
+ .clickImage {
+   font-size: 12px;
+ }
+
+ .description {
+   font-size: 18px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+ }
+
+ .cardHeader {
+   font-size: 20px;
+ }
+
+} 

@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+#root > div,
+div[data-reactroot] {
+  height: auto;
+}
+
+body {
+background-color: black;
+}
+
+p {
+  color: white;
+}

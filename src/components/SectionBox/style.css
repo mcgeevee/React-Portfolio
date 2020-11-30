@@ -1,0 +1,98 @@
+.section {
+  height: auto;
+  width: auto;
+  max-width: auto;
+  max-height: auto;
+  position: relative;
+  margin-top: 50px;
+  overflow: hidden;
+  border-radius: 40px;
+  border: solid;
+  border-width: 1px;
+  background-color: white;  
+}
+
+.sectionHeader {
+  font-size: 24px;
+  padding: 10px;
+  margin-top: 0px;
+  color: black;
+  border: rgb(233, 233, 233) 1px;
+  text-align: left;
+  background-color: rgb(233, 233, 233);
+  padding-left: 20px;
+
+}
+
+text {
+  display: block;
+  width: 100%;
+  min-height: 80px;
+  color: black;
+  text-align: left;
+  font-weight: 800;
+  padding: 20px;
+  overflow-wrap: break-word;
+  overflow-y: scroll;
+}
+
+
+.description {
+  font-weight: 300; 
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 26px;
+  margin-top: 20px;
+  font-style: italic;   
+  color: black;
+  text-align: left;
+  padding-left: 20px;
+}
+
+h3 {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+br {
+display: block;
+height: 10px;
+border: rgb(233, 233, 233) 1px;
+}
+
+@media only screen and (max-width: 787px) {
+  .gifs{
+    width: 400px;
+  }
+} 
+
+@media only screen and (max-width: 439px) {
+  .gifs{
+    width: 280px;
+    height: 220px;
+  }
+ text {
+   font-size: 15px;
+   margin-top: 0px;
+   padding-top: 0px;
+ }
+
+ .section { 
+   margin: 15px;
+ }
+ 
+ .clickImage {
+   font-size: 12px;
+ }
+
+ .description {
+   font-size: 18px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+ }
+
+ .sectionHeader {
+   font-size: 20px;
+ }
+
+} 
