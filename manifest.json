@@ -1,0 +1,40 @@
+{
+  "short_name": "Erin McGeever Portfolio",
+  "name": "Erin McGeever FullStack Portfolio",
+  "icons": [
+    {
+      "src": "IMG_0053.JPG",
+      "sizes": "64x64",
+      "type": "image/JPG"
+    },
+    {
+      "src": "IMG_0053.JPG",
+      "sizes": "32x32",
+      "type": "image/JPG"
+    },
+    {
+      "src": "IMG_0053.JPG",
+      "sizes": "24x24",
+      "type": "image/JPG"
+    },
+    {
+      "src": "IMG_0053.JPG",
+      "sizes": "16x16",
+      "type": "image/JPG"
+    },
+    {
+      "src": "IMG_0053.JPG",
+      "type": "image/JPG",
+      "sizes": "192x192"
+    },
+    {
+      "src": "IMG_0053.JPG",
+      "type": "image/JPG",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
