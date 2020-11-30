@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Eduardo Urbaez",
-  "homepage": "http://eurbaezjr.github.io/portfolio",
+  "homepage": "http://mcgeevee.github.io/React-Portfolio",
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.1.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
