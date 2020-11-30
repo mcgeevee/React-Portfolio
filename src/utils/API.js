@@ -9,7 +9,7 @@ export default {
     return axios.get("https://api.github.com/users/" + gitHubUserName + "/starred", 
     {
       'Content-type': 'text/plain',
-      "Access-Control-Allow-Origin": "https://eurbaezjr.github.io/portfolio/projects"
+      "Access-Control-Allow-Origin": "https://mcgeevee.github.io/portfolio/projects"
     }
     );
   },
@@ -17,7 +17,7 @@ export default {
     return axios.get("https://api.github.com/repos/" + fullRepoName + "/contents",
     {
       'Content-type': 'text/plain',
-      "Access-Control-Allow-Origin": "https://eurbaezjr.github.io/portfolio/projects"
+      "Access-Control-Allow-Origin": "https://mcgeevee.github.io/portfolio/projects"
     }
     );
   }

@@ -13,7 +13,7 @@ class Projects extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      gitHubUserName: "eurbaezjr",
+      gitHubUserName: "mcgeevee",
       BackgroundImage: "https://images.pexels.com/photos/2694037/pexels-photo-2694037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       search: "",
       apiResults: [],
